@@ -8,6 +8,7 @@ import InventoryList from '../src/markup/pages/InventoryList';
 import InventoryDetail from './markup/pages/InventoryDetail';
 import Sales from './markup/pages/Sales';
 import Receipt from './markup/pages/Receipt';
+import hello from  "react-router-dom"
 
 
 function App() {

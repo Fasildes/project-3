@@ -1,0 +1,10 @@
+d.txt
+f.txt
+e.txt 
+*.txt
+mapp.js
+index.html
+package-lock.json
+package.json
+src/main
+?g.txt

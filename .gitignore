@@ -2,7 +2,7 @@ d.txt
 f.txt
 e.txt 
 *.txt
-.app.js
-.index.html
-.package-lock.json
-.package.json
+app.js
+index.html
+package-lock.json
+package.json
